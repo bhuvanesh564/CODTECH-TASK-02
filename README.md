@@ -1,8 +1,8 @@
-Name      : S Someswaran
+Name      :  M Bhuvanesh
 <BR>
 Company: CODTECH IT SOLUTIONS
 <BR>
-Intern ID : CT08DS6515
+Intern ID : CT08DS6 4
 <BR>
 Domain  : Web development
 <BR>
@@ -100,8 +100,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or suggestions, please reach out to:
 
-- **Your Name**: [S.someswaran](https://github.com/Someswaran2003/CODTECH-TASK-02)
-- **GitHub**: [@yourusername](https://github.com/Someswaran2003/CODTECH-TASK-02)
+- **Your Name**: [M.Bhuvanesh](https://github.com/bhuvaneshmani56/CODTECH-TASK-02)
+- **GitHub**: [@yourusername]( https://github.com/bhuvaneshmani56/CODTECH-TASK-02)
 ---
 
 Feel free to customize this README template based on your application's specific features and requirements!
