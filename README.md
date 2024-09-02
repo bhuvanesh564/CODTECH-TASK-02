@@ -12,7 +12,7 @@ Mentor : Muzammil Ahmed
 
 
 # Weather Application
-Home page![Screenshot 2024-09-02 112427](https://github.com/user-attachments/assets/ab7581ba-367d-4266-907b-dd402b30e63e)
+Home page![homwpage]( https://github.com/bhuvaneshmani56/CODTECH-TASK-02/blob/main/Screenshot%20(13).png)
 
 
 
