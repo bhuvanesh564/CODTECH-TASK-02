@@ -101,7 +101,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or suggestions, please reach out to:
 
 - **Your Name**: [M.Bhuvanesh](https://github.com/bhuvaneshmani56/CODTECH-TASK-02)
-- **GitHub**: [@yourusername]( https://github.com/bhuvaneshmani56/CODTECH-TASK-02)
+- **GitHub**: [@Bhuvanesh]( https://github.com/bhuvaneshmani56/CODTECH-TASK-02)
 ---
 
 Feel free to customize this README template based on your application's specific features and requirements!
